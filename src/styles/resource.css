@@ -1,0 +1,19 @@
+.resource hr {
+  width: 60%;
+}
+
+.resource-title {
+  text-align: center;
+}
+
+.resource-description {
+  margin-bottom: 5px;
+}
+
+.resource-link {
+  color: #b9db92;
+}
+
+.resource-link::after {
+  content: " >>";
+}

@@ -1,0 +1,14 @@
+.btn-counter {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  outline: none;
+}
+
+.is-danger{
+    background: hsl(348, 100%, 61%)
+}
+
+.is-success{
+    background:hsl(171, 100%, 41%)	
+}

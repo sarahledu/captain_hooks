@@ -1,0 +1,54 @@
+.container {
+  padding: 20px 40px;
+}
+
+.landing-page {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+    url("http://4.bp.blogspot.com/-URwA80vvtMs/T_m1vGuazZI/AAAAAAAAHH0/RNvxOm9ZXc0/s1600/Captain_hook_disney_cartoon_wallpaper_4.jpg");
+  height: calc(100vh - 60px);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+}
+
+.main-title {
+  font-weight: 300;
+  font-size: 4rem;
+  letter-spacing: 0.2rem;
+  margin-bottom: 20px;
+}
+
+.resources {
+  display: flex;
+  justify-content: center;
+}
+
+.resource {
+  margin-right: 40px;
+  max-width: 20%;
+  border: 1px solid whitesmoke;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+  margin-bottom: 2rem;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.counters {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}

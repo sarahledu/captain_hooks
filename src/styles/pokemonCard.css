@@ -1,0 +1,11 @@
+.pokemon-types {
+  display: flex;
+}
+
+.pokemon-description{
+    margin-right: 10px;
+}
+
+.pokemon-images{
+    display:flex;
+}
